@@ -194,8 +194,5 @@ Jika Anda ingin berkontribusi pada proyek ini:
 Proyek ini tidak memiliki lisensi resmi (UNLICENSED).
 
 ## Pengembang
-Dibuat sebagai bagian dari tugas kuliah Semester 6, mata kuliah PPL, pada tanggal 7 Juni 2025.
+Dibuat sebagai bagian dari tugas kuliah Semester 6, mata kuliah PPL.
 
----
-
-**Catatan**: Proyek ini dikembangkan pada pukul 01:51 AM WIB, Sabtu, 7 Juni 2025.
